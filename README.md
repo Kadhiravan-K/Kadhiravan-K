@@ -2,7 +2,7 @@
 
 Embedded Engineer
                                  
-<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]([[https://www.linkedin.com/in/hareesh-r/](https://www.linkedin.com/in/kadhiravanknife?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://www.linkedin.com/in/kadhiravan-k/))
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kadhiravan-k/))
 
 
 ### I code in

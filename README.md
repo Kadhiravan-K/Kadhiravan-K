@@ -1,3 +1,10 @@
+
+<p align="center">
+  <img src="./iot-data-flow.svg"
+       width="100%"
+       alt="IoT Data Flow - Sensor to Cloud Dashboard">
+</p>
+
 ## Hi there 👋 It's me Kadhiravan
 
 Embedded Engineer
@@ -12,7 +19,3 @@ Embedded Engineer
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" src="https://img.icons8.com/color/480/null/notion--v1.png" /> 
 
-### 💻 Workspace Spec
-[![Kadhiravan GitHub stats](https://github-readme-stats.vercel.app/api?username=Kadhiravan-K)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Kadhiravan GitHub stats](https://github-readme-activity-graph.vercel.app/graph?username=Kadhiravan-K&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

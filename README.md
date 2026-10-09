@@ -1,3 +1,6 @@
+<img src="iot-data-flow-animated.svg"
+       width="100%"
+       alt="IoT Data Flow - Sensor to Cloud Dashboard">
 ## Hi there 👋 It's me Kadhiravan
 
 Embedded Engineer
